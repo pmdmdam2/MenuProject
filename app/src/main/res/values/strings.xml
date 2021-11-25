@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MenuProject</string>
+    <string name="opc1">Opción 1</string>
+    <string name="opc11">Opción 1.1</string>
+    <string name="opc12">Opción 1.2</string>
+    <string name="opc2_ocultar">Ocultar texto inferior</string>
+    <string name="opc2_ver">Ver texto inferior</string>
+    <string name="guarda_cambios">Guardando cambios</string>
+    <string name="editar">Editar</string>
+    <string name="contex_menu_op1">Opción 1 del menú contextual</string>
+    <string name="contex_menu_op2">Opción 2 del menú contextual</string>
+    <string name="pulsame">Deja pulsado sobre este texto para mostrar el menú contextual</string>
+    <string name="nopulsar">Aquí si pulsas no se mostrará el menú contextual</string>
+</resources>
