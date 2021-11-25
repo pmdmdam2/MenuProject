@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         TextView tvTexto1 = findViewById(R.id.tvTexto1);
         //la referencia al segundo cuadro de texto se guarda
         //en una propiedad de la clase
-        this.tvTexto2 = findViewById(R.id.tvTexto1);
+        this.tvTexto2 = findViewById(R.id.tvTexto2);
         //relaciono el TextView con el menú contextual
         registerForContextMenu(tvTexto1);
     }
